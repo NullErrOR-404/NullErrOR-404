@@ -6,7 +6,7 @@
 
 <!-- Hero Action CTAs (Unified Dark Titanium) -->
 <div align="center">
-  <a href="https://linkedin.com/in/mohamedsameen">
+  <a href="https://www.linkedin.com/in/mohamed-sameen-93884337b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
