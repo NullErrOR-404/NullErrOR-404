@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NullErrOR-404/NullErrOR-404/main/header.svg" width="100%" alt="Mohamed Sameen S" />
+  <img src="https://raw.githubusercontent.com/NullErrOR-404/NullErrOR-404/main/header.svg" width="100%" alt="MOHAMED SAMEEN S" />
 </div>
 
 <br />
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:contact@mohamedsameen.dev">
+  <a href="mailto:mhdscales@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
   </a>
   &nbsp;
