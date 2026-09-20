@@ -4,22 +4,22 @@
 
 <br />
 
-<!-- Hero Action CTAs -->
+<!-- Hero Action CTAs (Unified Dark Titanium) -->
 <div align="center">
   <a href="https://linkedin.com/in/mohamedsameen">
-    <img src="https://img.shields.io/badge/🚀_Let's_Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:contact@mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/📫_Send_Message-Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
   </a>
   &nbsp;
   <a href="https://mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/🌐_Explore_Work-Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-161b22?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Portfolio" />
   </a>
   &nbsp;
   <a href="https://instagram.com/mohamedsameen">
-    <img src="https://img.shields.io/badge/📸_Network-Instagram-E11D48?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Network-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
   </a>
 </div>
 
@@ -27,9 +27,9 @@
 
 ---
 
-## ⚡ Real-Time Engineering & Operations
+## ⚡ Real-Time Engineering &amp; Operations
 
-I am a **Full-Stack AI & Systems Engineer** focused on building resilient, high-throughput software architectures and autonomous machine learning workflows. My focus is on turning complex problem spaces into reliable, high-performance systems that run deterministically in real-time execution.
+I am a **Full-Stack AI &amp; Systems Engineer** focused on building resilient, high-throughput software architectures and autonomous machine learning workflows. My focus is on turning complex problem spaces into reliable, high-performance systems that run deterministically in real-time execution.
 
 ### Execution Principles
 - 🚀 **High-Throughput Systems**: Resilient API contracts, clean architectural boundaries, and low-latency state synchronization.
@@ -46,18 +46,18 @@ I am a **Full-Stack AI & Systems Engineer** focused on building resilient, high-
       <h3>⚡ Full-Stack Systems Execution</h3>
       <p>Engineering end-to-end distributed web platforms, reactive client interfaces, and robust server architectures with type-safe data flows and modern state machines.</p>
       <p>
-        <img src="https://img.shields.io/badge/Full--Stack_Systems-2563EB?style=flat-square&logo=react&logoColor=white" alt="Full Stack" />
-        <img src="https://img.shields.io/badge/Type--Safe_APIs-38BDF8?style=flat-square&logo=typescript&logoColor=white" alt="TypeSafe" />
-        <img src="https://img.shields.io/badge/Scalable_State-0284C7?style=flat-square&logo=nextdotjs&logoColor=white" alt="State" />
+        <img src="https://img.shields.io/badge/Full--Stack_Systems-161b22?style=flat-square&logo=react&logoColor=white" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/Type--Safe_APIs-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeSafe" />
+        <img src="https://img.shields.io/badge/Scalable_State-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="State" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Applied AI &amp; Autonomous Pipelines</h3>
       <p>Architecting multi-agent workflows, vector retrieval engines (RAG), prompt engineering harnesses, and custom tooling with enterprise LLM foundational models.</p>
       <p>
-        <img src="https://img.shields.io/badge/Agentic_AI-10B981?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
-        <img src="https://img.shields.io/badge/Context_RAG-059669?style=flat-square&logo=anthropic&logoColor=white" alt="RAG" />
-        <img src="https://img.shields.io/badge/Model_Inference-047857?style=flat-square&logo=google&logoColor=white" alt="Inference" />
+        <img src="https://img.shields.io/badge/Agentic_AI-161b22?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+        <img src="https://img.shields.io/badge/Context_RAG-161b22?style=flat-square&logo=anthropic&logoColor=white" alt="RAG" />
+        <img src="https://img.shields.io/badge/Model_Inference-161b22?style=flat-square&logo=google&logoColor=white" alt="Inference" />
       </p>
     </td>
   </tr>
@@ -66,18 +66,18 @@ I am a **Full-Stack AI & Systems Engineer** focused on building resilient, high-
       <h3>🔄 Real-Time Operations &amp; Event Streaming</h3>
       <p>Building asynchronous background task runners, persistent cache invalidation layers, bi-directional WebSocket channels, and high-volume data ingest pipelines.</p>
       <p>
-        <img src="https://img.shields.io/badge/Event_Streaming-F43F5E?style=flat-square&logo=fastapi&logoColor=white" alt="Streaming" />
-        <img src="https://img.shields.io/badge/Redis_Caching-DC2626?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/Async_Queues-BE123C?style=flat-square&logo=python&logoColor=white" alt="Async" />
+        <img src="https://img.shields.io/badge/Event_Streaming-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="Streaming" />
+        <img src="https://img.shields.io/badge/Redis_Caching-161b22?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Async_Queues-161b22?style=flat-square&logo=python&logoColor=white" alt="Async" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>☁️ Cloud Infrastructure &amp; Continuous Delivery</h3>
       <p>Automating build, test, and release lifecycles through declarative CI/CD pipelines, containerized microservices, and edge computing environments.</p>
       <p>
-        <img src="https://img.shields.io/badge/Docker_Containers-7C3AED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-        <img src="https://img.shields.io/badge/Edge_Deployment-5B21B6?style=flat-square&logo=vercel&logoColor=white" alt="Edge" />
+        <img src="https://img.shields.io/badge/Docker_Containers-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+        <img src="https://img.shields.io/badge/Edge_Deployment-161b22?style=flat-square&logo=vercel&logoColor=white" alt="Edge" />
       </p>
     </td>
   </tr>
@@ -120,7 +120,7 @@ I am a **Full-Stack AI & Systems Engineer** focused on building resilient, high-
 ## 📊 Live Telemetry &amp; Activity Stream
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=tokyonight&background=0A0F1D&border=2563EB&stroke=38BDF8&ring=10B981&fire=F43F5E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats" width="100%" style="max-width: 840px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=22C55E&fire=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="100%" style="max-width: 840px;" />
 </div>
 
 <br />
@@ -129,10 +129,10 @@ I am a **Full-Stack AI & Systems Engineer** focused on building resilient, high-
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=0a0f1d&title_color=38bdf8&text_color=f1f5f9&icon_color=10b981&border_color=2563eb&border_radius=12&locale=en" alt="Mohamed Sameen's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=22c55e&border_color=30363d&border_radius=10&locale=en" alt="Mohamed Sameen's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=0a0f1d&title_color=38bdf8&text_color=f1f5f9&border_color=2563eb&border_radius=12&locale=en" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&border_radius=10&locale=en" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -160,19 +160,19 @@ Whether you're looking to engineer an autonomous AI pipeline, scale a modern ful
 
 <div align="center">
   <a href="https://linkedin.com/in/mohamedsameen">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:contact@mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/Email-Send_Direct_Message-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-161b22?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://instagram.com/mohamedsameen">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E11D48?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Network-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 

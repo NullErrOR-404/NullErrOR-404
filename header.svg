@@ -1,134 +1,95 @@
-<svg width="100%" height="220" viewBox="0 0 840 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1120" />
-      <stop offset="45%" stop-color="#0a0f1d" />
-      <stop offset="100%" stop-color="#060913" />
-    </linearGradient>
-
-    <!-- Border Gradient with Cobalt & Emerald Accents -->
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.8" />
-      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.4" />
-      <stop offset="70%" stop-color="#10b981" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.9" />
-    </linearGradient>
-
-    <!-- Name Gradient (Pure Crisp White to Icy Azure) -->
-    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="60%" stop-color="#f0f6fc" />
-      <stop offset="100%" stop-color="#38bdf8" />
-    </linearGradient>
-
-    <!-- Ambient Glow Top Right -->
-    <radialGradient id="glow-cobalt" cx="90%" cy="15%" r="55%">
-      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#2563eb" stop-opacity="0" />
-    </radialGradient>
-
-    <!-- Ambient Glow Bottom Left -->
-    <radialGradient id="glow-emerald" cx="10%" cy="85%" r="45%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.18" />
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
-    </radialGradient>
-  </defs>
-
+<svg width="100%" height="200" viewBox="0 0 840 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 800;
-      font-size: 38px;
-      letter-spacing: -0.03em;
-      fill: url(#name-grad);
-    }
-    .role-title {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-weight: 700;
-      font-size: 18px;
-      letter-spacing: -0.01em;
-      fill: #38bdf8;
+      font-size: 34px;
+      letter-spacing: -0.025em;
+      fill: #ffffff;
     }
-    .role-sub {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 400;
-      font-size: 17px;
+    .role-primary {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 16px;
       letter-spacing: -0.01em;
-      fill: #94a3b8;
+      fill: #e6edf3;
+    }
+    .role-secondary {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      letter-spacing: -0.01em;
+      fill: #8b949e;
     }
     .status-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 700;
-      font-size: 12px;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 11px;
       letter-spacing: 0.08em;
       text-transform: uppercase;
-      fill: #34d399;
+      fill: #8b949e;
     }
     .tag-label {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+      font-weight: 500;
       font-size: 13px;
-      letter-spacing: 0.01em;
-      fill: #f1f5f9;
+      letter-spacing: -0.005em;
+      fill: #c9d1d9;
     }
     @keyframes pulse {
-      0% { opacity: 0.5; transform: scale(0.95); }
-      50% { opacity: 1; transform: scale(1.05); }
-      100% { opacity: 0.5; transform: scale(0.95); }
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
     }
-    .live-indicator {
-      transform-origin: 18px 15px;
-      animation: pulse 2.2s infinite ease-in-out;
+    .live-dot {
+      animation: pulse 2.5s infinite ease-in-out;
     }
   </style>
 
-  <!-- Container Box -->
-  <rect x="2" y="2" width="836" height="216" rx="16" fill="url(#bg-grad)" />
-  <rect x="2" y="2" width="836" height="216" rx="16" fill="url(#glow-cobalt)" />
-  <rect x="2" y="2" width="836" height="216" rx="16" fill="url(#glow-emerald)" />
-  <rect x="2" y="2" width="836" height="216" rx="16" stroke="url(#border-grad)" stroke-width="1.8" />
+  <!-- Matte Charcoal / Obsidian Card Background -->
+  <rect x="1" y="1" width="838" height="198" rx="14" fill="#0d1117" />
+  <rect x="1" y="1" width="838" height="198" rx="14" stroke="#30363d" stroke-width="1.2" />
 
-  <!-- Live Status Pill -->
-  <g transform="translate(36, 26)">
-    <rect width="286" height="30" rx="15" fill="#0f172a" stroke="#334155" stroke-width="1.2" />
-    <circle cx="18" cy="15" r="5" fill="#10b981" class="live-indicator" />
-    <text x="32" y="19" class="status-text">LIVE &amp; EXECUTING · AVAILABLE</text>
+  <!-- Restrained Status Pill -->
+  <g transform="translate(36, 28)">
+    <rect width="280" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="15" cy="13" r="4.5" fill="#22c55e" class="live-dot" />
+    <text x="28" y="17" class="status-text">AVAILABLE FOR ROLES &amp; PROJECTS</text>
   </g>
 
-  <!-- Main Headline Name -->
-  <text x="36" y="98" class="title">Mohamed Sameen S</text>
+  <!-- Title Name -->
+  <text x="36" y="94" class="title">Mohamed Sameen S</text>
 
-  <!-- Core Role Descriptor -->
-  <text x="36" y="130">
-    <tspan class="role-title">Full-Stack AI &amp; Systems Engineer</tspan>
-    <tspan class="role-sub"> — Architecting resilient platforms &amp; intelligent workflows</tspan>
+  <!-- Subtitle Track -->
+  <text x="36" y="124">
+    <tspan class="role-primary">Full-Stack AI &amp; Systems Engineer</tspan>
+    <tspan class="role-secondary"> — Architecting resilient platforms &amp; intelligent workflows</tspan>
   </text>
 
-  <!-- Domain Highlights / Visual Pills -->
-  <g transform="translate(36, 156)">
-    <!-- Pill 1: Full-Stack -->
+  <!-- Metadata / Focus Pills (Unified Dark Titanium) -->
+  <g transform="translate(36, 146)">
+    <!-- Pill 1: Location -->
     <g transform="translate(0, 0)">
-      <rect width="178" height="34" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.2" />
-      <text x="14" y="22" class="tag-label">⚡ Full-Stack Systems</text>
+      <rect width="138" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="19" class="tag-label">📍 Chennai, India</text>
     </g>
 
-    <!-- Pill 2: Applied AI -->
-    <g transform="translate(190, 0)">
-      <rect width="186" height="34" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2" />
-      <text x="14" y="22" class="tag-label">🧠 Applied AI Pipelines</text>
+    <!-- Pill 2: Full-Stack -->
+    <g transform="translate(150, 0)">
+      <rect width="162" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="19" class="tag-label">⚡ Full-Stack Systems</text>
     </g>
 
-    <!-- Pill 3: Real-Time Ops -->
-    <g transform="translate(388, 0)">
-      <rect width="180" height="34" rx="8" fill="#1e293b" stroke="#f43f5e" stroke-width="1.2" />
-      <text x="14" y="22" class="tag-label">🔄 Real-Time Operations</text>
+    <!-- Pill 3: Autonomous AI -->
+    <g transform="translate(324, 0)">
+      <rect width="194" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="19" class="tag-label">🧠 Autonomous AI Pipelines</text>
     </g>
 
-    <!-- Pill 4: Chennai, IN -->
-    <g transform="translate(580, 0)">
-      <rect width="144" height="34" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.2" />
-      <text x="14" y="22" class="tag-label">📍 Chennai, India</text>
+    <!-- Pill 4: Real-Time Ops -->
+    <g transform="translate(530, 0)">
+      <rect width="176" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="12" y="19" class="tag-label">🔄 Real-Time Operations</text>
     </g>
   </g>
 </svg>
