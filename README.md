@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View_Work-161b22?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Portfolio" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/mohamedsameen">
+  <a href="https://www.instagram.com/mhdscales?stkn=dGtvc3puZGNlcTRn">
     <img src="https://img.shields.io/badge/Instagram-Network-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
   </a>
 </div>
