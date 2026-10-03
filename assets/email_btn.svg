@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="32" viewBox="0 0 135 32">
+    
+    <style>
+        .btn { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1px; rx: 16; }
+        .text { font: 600 13px -apple-system, sans-serif; fill: #24292f; }
+        .icon { fill: #24292f; }
+        @media (prefers-color-scheme: dark) {
+            .btn { fill: #21262d; stroke: #30363d; }
+            .text { fill: #c9d1d9; }
+            .icon { fill: #c9d1d9; }
+        }
+    </style>
+    <rect class="btn" width="133" height="30" x="1" y="1" />
+    <g class="icon" transform="translate(10, 8) scale(0.66)">
+        <path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z"/>
+    </g>
+    <text class="text" x="36" y="20">Send an Email</text>
+</svg>

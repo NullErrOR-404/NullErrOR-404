@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="32" viewBox="0 0 165 32">
+    
+    <style>
+        .btn { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1px; rx: 16; }
+        .text { font: 600 13px -apple-system, sans-serif; fill: #24292f; }
+        .icon { fill: #24292f; }
+        @media (prefers-color-scheme: dark) {
+            .btn { fill: #21262d; stroke: #30363d; }
+            .text { fill: #c9d1d9; }
+            .icon { fill: #c9d1d9; }
+        }
+    </style>
+    <rect class="btn" width="163" height="30" x="1" y="1" />
+    <g class="icon" transform="translate(10, 8)">
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+    </g>
+    <text class="text" x="36" y="20">Connect on LinkedIn</text>
+</svg>

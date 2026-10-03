@@ -4,22 +4,24 @@
 
 <br />
 
-<!-- Hero Action CTAs (Unified Dark Titanium) -->
+<!-- Hero Action CTAs (Premium Custom SVGs) -->
 <div align="center">
+  <p><strong>Building intelligent digital systems that solve real problems.</strong></p>
+  <br />
   <a href="https://www.linkedin.com/in/mohamed-sameen-93884337b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="assets/linkedin_btn.svg" alt="Connect on LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:mhdscales@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+    <img src="assets/email_btn.svg" alt="Send an Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/Portfolio-View_Work-161b22?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Portfolio" />
+    <img src="assets/portfolio_btn.svg" alt="Explore Portfolio" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/mhdscales?stkn=dGtvc3puZGNlcTRn">
-    <img src="https://img.shields.io/badge/Instagram-Network-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+    <img src="assets/instagram_btn.svg" alt="Follow on Instagram" />
   </a>
 </div>
 
