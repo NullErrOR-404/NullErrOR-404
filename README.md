@@ -4,24 +4,24 @@
 
 <br />
 
-<!-- Hero Action CTAs (Premium Custom SVGs) -->
+<!-- Hero Action CTAs (Vibrant Brand Colors) -->
 <div align="center">
   <p><strong>Building intelligent digital systems that solve real problems.</strong></p>
   <br />
   <a href="https://www.linkedin.com/in/mohamed-sameen-93884337b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="assets/linkedin_btn.svg" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:mhdscales@gmail.com">
-    <img src="assets/email_btn.svg" alt="Send an Email" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://mohamedsameen.dev">
-    <img src="assets/portfolio_btn.svg" alt="Explore Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Portfolio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/mhdscales?stkn=dGtvc3puZGNlcTRn">
-    <img src="assets/instagram_btn.svg" alt="Follow on Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
   </a>
 </div>
 
@@ -92,28 +92,44 @@ I am a **Full-Stack AI &amp; Systems Engineer** focused on building resilient, h
 ### Core Languages &amp; Foundation
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" alt="Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=light">
+      <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" alt="Languages" />
+    </picture>
   </a>
 </p>
 
 ### Frontend Engineering &amp; Interface Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+    </picture>
   </a>
 </p>
 
 ### Backend Execution, Containers &amp; DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,githubactions,vercel&theme=dark" alt="Backend & Cloud" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,githubactions,vercel&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,githubactions,vercel&theme=light">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,githubactions,vercel&theme=dark" alt="Backend & Cloud" />
+    </picture>
   </a>
 </p>
 
 ### Storage, Data Stores &amp; Real-Time Caching
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&theme=dark" alt="Databases" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&theme=light">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&theme=dark" alt="Databases" />
+    </picture>
   </a>
 </p>
 
@@ -122,7 +138,11 @@ I am a **Full-Stack AI &amp; Systems Engineer** focused on building resilient, h
 ## 📊 Live Telemetry &amp; Activity Stream
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=22C55E&fire=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="100%" style="max-width: 840px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=22C55E&fire=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=default&border=e5e7eb&stroke=e5e7eb&ring=22c55e&fire=E4405F&currStreakNum=111827&sideNums=111827&currStreakLabel=4b5563&sideLabels=4b5563&dates=4b5563">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullErrOR-404&theme=dark" alt="GitHub Streak Stats" width="100%" style="max-width: 840px;" />
+  </picture>
 </div>
 
 <br />
@@ -131,10 +151,18 @@ I am a **Full-Stack AI &amp; Systems Engineer** focused on building resilient, h
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=22c55e&border_color=30363d&border_radius=10&locale=en" alt="Mohamed Sameen's GitHub Stats" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=22c55e&border_color=30363d&border_radius=10&locale=en">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=ffffff&title_color=111827&text_color=4b5563&icon_color=22c55e&border_color=e5e7eb&border_radius=10&locale=en">
+          <img src="https://github-readme-stats.vercel.app/api?username=NullErrOR-404&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=22c55e&border_color=30363d&border_radius=10&locale=en" alt="Mohamed Sameen's GitHub Stats" />
+        </picture>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&border_radius=10&locale=en" alt="Top Languages" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&border_radius=10&locale=en">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=ffffff&title_color=111827&text_color=4b5563&border_color=e5e7eb&border_radius=10&locale=en">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullErrOR-404&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&border_radius=10&locale=en" alt="Top Languages" />
+        </picture>
       </td>
     </tr>
   </table>
@@ -162,19 +190,19 @@ Whether you're looking to engineer an autonomous AI pipeline, scale a modern ful
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-sameen-93884337b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mhdscales@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://mohamedsameen.dev">
-    <img src="https://img.shields.io/badge/Portfolio-View_Work-161b22?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mhdscales?stkn=dGtvc3puZGNlcTRn">
-    <img src="https://img.shields.io/badge/Instagram-Network-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Network-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
